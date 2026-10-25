@@ -12,28 +12,30 @@ I believe in learning by doing, keeping things simple, and improving with every 
 
 ## 🛠️ Technologies & Tools
 
-**Frontend Development**
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- React
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
 
-**Backend Development**
-- Python
-- Django
-- Django REST Framework
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django" />
+</p>
 
-**Database**
-- MySQL
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-**Tools & Integrations**
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-- Postman
-- REST API integration
-- EmailJS
+### 🧪 Development & API Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=jupyter,postman" />
+</p>
+
+### 🔧 Tools & Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
