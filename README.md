@@ -51,7 +51,7 @@ A website designed for a parcel and moving service, providing service informatio
 - Email notifications through EmailJS
 - Embedded Google Maps
 
-🔗 **Repository:** [DoorStep Project](https://github.com/dhivya1012-developer/doorstep-parcel-service)
+🔗 **Repository:** [DoorStep Project](https://github.com/dhivya1012-developer/DoorStep---A-Parcel-Service)
 
 ### 👥 TalentBridge RMS — Recruitment Management System
 
