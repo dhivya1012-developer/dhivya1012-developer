@@ -29,7 +29,12 @@ I believe in learning by doing, keeping things simple, and improving with every 
 
 ### 🧪 Development & API Testing
 <p>
-  <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter Notebook" height="48" />
+  <img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
+  alt="Jupyter Notebook"
+  width="48"
+  height="48"
+  />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="48" />
 </p>
 
